@@ -14,6 +14,6 @@ Google Maps API
 Contact
 For any inquiries or support, please contact me.
 
-Email: pradeeprathore79093@gmail.com
+Email: kshitijjain885@gmail.com
 LinkedIn: Linkedin Link
 Thank you for using the Find Your Temporary Address (FYTA) App! 🏠📱
